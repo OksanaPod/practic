@@ -1,0 +1,15 @@
+C:\Users\NOi\Desktop\Git_study\practic\practic\bin\Debug\net6.0\practic.exe
+C:\Users\NOi\Desktop\Git_study\practic\practic\bin\Debug\net6.0\practic.deps.json
+C:\Users\NOi\Desktop\Git_study\practic\practic\bin\Debug\net6.0\practic.runtimeconfig.json
+C:\Users\NOi\Desktop\Git_study\practic\practic\bin\Debug\net6.0\practic.dll
+C:\Users\NOi\Desktop\Git_study\practic\practic\bin\Debug\net6.0\practic.pdb
+C:\Users\NOi\Desktop\Git_study\practic\practic\obj\Debug\net6.0\practic.csproj.AssemblyReference.cache
+C:\Users\NOi\Desktop\Git_study\practic\practic\obj\Debug\net6.0\practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOi\Desktop\Git_study\practic\practic\obj\Debug\net6.0\practic.AssemblyInfoInputs.cache
+C:\Users\NOi\Desktop\Git_study\practic\practic\obj\Debug\net6.0\practic.AssemblyInfo.cs
+C:\Users\NOi\Desktop\Git_study\practic\practic\obj\Debug\net6.0\practic.csproj.CoreCompileInputs.cache
+C:\Users\NOi\Desktop\Git_study\practic\practic\obj\Debug\net6.0\practic.dll
+C:\Users\NOi\Desktop\Git_study\practic\practic\obj\Debug\net6.0\refint\practic.dll
+C:\Users\NOi\Desktop\Git_study\practic\practic\obj\Debug\net6.0\practic.pdb
+C:\Users\NOi\Desktop\Git_study\practic\practic\obj\Debug\net6.0\practic.genruntimeconfig.cache
+C:\Users\NOi\Desktop\Git_study\practic\practic\obj\Debug\net6.0\ref\practic.dll
